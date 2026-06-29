@@ -9,6 +9,8 @@
 
 This repository contains all Python scripts required to reproduce the analyses and figures presented in the paper. Participants drove a simulator at two sites (NTU and HMU) across three tracks (Motorway, Urban Low-Traffic, Rural). Driving behaviour features were extracted and used to classify participants as Controls or Patients (diagnosed with depression).
 
+For datasets or raw data please contact the corresponding authors and with permission from the First Department of Psychiatry, Eginition Hospital, National and Kapodistrian University of Athens and the collaborating centers.
+
 ---
 
 ## Data
