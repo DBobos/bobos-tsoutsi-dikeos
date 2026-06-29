@@ -1,7 +1,7 @@
 # Predicting Depression from Driving Data using Machine Learning
 
 **Paper:** *Predicting depression from driving data using machine learning algorithms*  
-**Authors:** D. Bobos, V. Tsoutsi
+**Authors:** D. Bobos, V. Tsoutsi, G. Manesis, P. Kazanis, E. Grinakis, V. Masdrakis, G.Yannis, D. Dikeos, D. Vogiatzis 
 
 ---
 
