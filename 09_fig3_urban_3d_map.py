@@ -81,6 +81,7 @@ ax = fig.add_subplot(111, projection='3d')
 
 # X=pos_x, Y=pos_y, Z=heading
 ax.plot(xs_t, ys_t, zs_t, color='limegreen', linewidth=6)
+ax.set_zlim(-10, 10)
 ax.set_xlabel('X', labelpad=8)
 ax.set_ylabel('Y', labelpad=8)
 ax.set_zlabel('Z', labelpad=8)

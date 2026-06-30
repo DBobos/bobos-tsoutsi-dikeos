@@ -87,6 +87,7 @@ fig = plt.figure(figsize=(11, 7))
 ax = fig.add_subplot(111, projection='3d')
 
 ax.plot(xs, ys, zs, color='limegreen', linewidth=6)
+ax.set_zlim(-10, 10)
 ax.view_init(elev=25, azim=-60)
 ax.set_xlabel('X', labelpad=8)
 ax.set_ylabel('Y', labelpad=8)
